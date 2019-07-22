@@ -10,11 +10,12 @@
 6.函数的柯里化和偏函数  
 7.call、apply、bind  
 8.惰性载入函数  
-9.错误处理方式  
-10.模块化exports  
-11.Express框架  
-12.Koa框架  
-13.Egg框架  
+9.重载函数
+10.错误处理方式  
+11.模块化exports  
+12.Express框架  
+13.Koa框架  
+14.Egg框架  
 
 ## JavaScript设计模式
 
