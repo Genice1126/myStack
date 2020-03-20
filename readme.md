@@ -16,6 +16,8 @@
 12.Express框架  
 13.Koa框架  
 14.Egg框架  
+15.[浅拷贝 && 深拷贝](https://github.com/Genice1126/myStack/issues/12)
+16.[JS构造链表数据结构](https://github.com/Genice1126/myStack/issues/14)
 
 ## JavaScript设计模式
 
