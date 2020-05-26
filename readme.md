@@ -22,7 +22,7 @@
 ## JavaScript设计模式
 
 ## JavaScript算法
-1.时间复杂度 && 空间复杂度  
+1.[时间复杂度 && 空间复杂度](https://github.com/Genice1126/myStack/issues/17)  
 2.冒泡排序  
 3.快速排序  
 4.希尔排序  
