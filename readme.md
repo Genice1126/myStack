@@ -20,6 +20,7 @@
 16.[JS构造链表数据结构](https://github.com/Genice1126/myStack/issues/14)
 
 ## JavaScript设计模式
+1.[六大原则](https://github.com/Genice1126/myStack/issues/19)
 
 ## JavaScript算法
 1.[时间复杂度 && 空间复杂度](https://github.com/Genice1126/myStack/issues/17)  
