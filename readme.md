@@ -24,10 +24,8 @@
 
 ## JavaScript算法
 1.[时间复杂度 && 空间复杂度](https://github.com/Genice1126/myStack/issues/17)  
-2.冒泡排序  
-3.快速排序  
-4.希尔排序  
-5.二叉树查找  
+2.[排序常见的几种算法](https://github.com/Genice1126/myStack/issues/20)   
+3.二叉树查找  
 
 ## 网络
 1.[TCP/TLS](https://github.com/Genice1126/myStack/issues/18)
