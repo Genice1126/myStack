@@ -26,7 +26,7 @@
 ## JavaScript算法
 1.[时间复杂度 && 空间复杂度](https://github.com/Genice1126/myStack/issues/17)  
 2.[排序常见的几种算法](https://github.com/Genice1126/myStack/issues/20)   
-3.二叉树查找  
+3.[查找常见的几种算法](https://github.com/Genice1126/myStack/issues/22)
 
 ## 网络
 1.[TCP/TLS](https://github.com/Genice1126/myStack/issues/18)
