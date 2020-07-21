@@ -34,4 +34,5 @@
 ## Redis
 1.[数据结构](https://github.com/Genice1126/myStack/issues/23)  
 2.[数据持久化](https://github.com/Genice1126/myStack/issues/24)  
-3.[内存淘汰(过期)策略](https://github.com/Genice1126/myStack/issues/25)
+3.[内存淘汰(过期)策略](https://github.com/Genice1126/myStack/issues/25)  
+4.[缓存雪崩 && 缓存击穿 && 缓存穿透](https://github.com/Genice1126/myStack/issues/26)
